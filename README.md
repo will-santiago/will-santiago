@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Will Santiago @willjogabonito
-- 🤓 I’m interested in working on Quality Assurance
+- 👋 Hi, I’m Will Santiago
+- 🤓 Quality Assurance
 - 🌱 I’m currently learning software testing
 - 👀 I’m looking to collaborate on software projects
 - 📫 How to reach me will.santiago@outlook.com
